@@ -13,7 +13,6 @@ if not os.path.exists(logo_folder):
     os.mkdir(logo_folder)
 
 for s in sprites:
-    print(s)
     m = re.match(('([a-zA-Z0-9]+)\{width:(\d+)px;'
               'height:(\d+)px;'
               'background-position:(-?\d+)(?:px)? (-?\d+)(?:px)?;\}'),
