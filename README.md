@@ -70,5 +70,5 @@ HTML 代码类似于
   [3]: http://ab.alipay.com/i/yinhang.htm
   [4]: bankname.json
   [5]: small_logo/ABC.png
-  [6]: split_small_logo.py
+  [6]: split_bank_logo.py
   [7]: small_logo/
